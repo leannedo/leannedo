@@ -1,4 +1,4 @@
-### Hi there 👋
+<h3 style="color:#a5e5b0">Hi there 👋 I'm Leanne Do - The Right Brain Dev 👩‍💻</h3>
 
 ```typescript
 interface Me {
@@ -39,3 +39,16 @@ export const getToKnowMe = (repertoire: string) => {
   return me[repertoire];
 }
 ```
+<h5 style="color:#a5e5b0">My books feast</h5>
+<li style="list-style-type: none">The Full Stack Developer by Chris Northwood 🥢</li>
+<li style="list-style-type: none">Frontend Architecture for Design Systems by Micah Godbolt 🥢</li>
+<li style="list-style-type: none">Soft skills - The software developer's life manual by John Z. Sonmez 🥢</li>
+<li style="list-style-type: none">Clean Code by Robert C. Martin 🍲</li>
+<li style="list-style-type: none">Programming Typescript by Boris Cherny 🍲</li>
+
+
+
+
+
+
+
