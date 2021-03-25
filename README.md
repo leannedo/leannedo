@@ -1,16 +1,41 @@
 ### Hi there 👋
 
-<!--
-**leannedo/leannedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```typescript
+interface Me {
+  [key: string]: Repertoire |  string[]
+}
 
-Here are some ideas to get you started:
+interface Repertoire {
+  [key: string]: string[]
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const me: Me = {
+  language: {
+    computer: ['javascript', 'typescript'],
+    human: ['vietnamese', 'english', 'german', 'finnish'],
+  },
+  technologies: {
+    frontEnd: ['react', 'redux', 'gatsby', 'webpack', 'babel', 'css3', 'bootstrap', 'html5'],
+    backEnd: ['nodejs', 'graphql'],
+    mobileApp: ['react-native'],
+    database: ['mongodb', 'postgresql'],
+    devOps: ['docker', 'kubernetes'],
+    testing: ['jest', 'jasmine'],
+    misc: ['git', 'linux', 'heroku', 'netlify' ]
+},
+  applications: ['single-page', 'jam-stack', 'server-side rendering'],
+  outside_work: ['hand-lettering', 'writing-blog', 'cat-slave', 'food-addict'],
+}
+
+export const getToKnowMe = (repertoire: string) => {
+  if (!repertoire) {
+    throw new Error('Please specify what you want to know about me!')
+  }
+
+  if (!me[repertoire]) {
+    throw new Error(`Missing ${repertoire} in my toolbox. Will work on that!`)
+  }
+
+  return me[repertoire];
+}
+```
