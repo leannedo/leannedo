@@ -1,4 +1,10 @@
-<h3 style="color:#a5e5b0">Hi there 👋 I'm Leanne Do - The Right Brain Dev 👩‍💻</h3>
+## Hi there 👋 I'm Leanne Do - [The Right Brain Dev](https://www.facebook.com/naophaidicode) 👩‍💻
+
+[![Linkedin: leannedo](https://img.shields.io/badge/-@leanndo-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/leanndo/)](https://www.linkedin.com/in/leanndo/)
+[![Facebook: naophaidicode](https://img.shields.io/badge/-@naophaidicode-0077B5?style=social&labelColor=0077B5&logo=facebook&link=https://www.linkedin.com/in/leanndo/)](https://www.facebook.com/naophaidicode)
+[![Website: therightbraindev](https://img.shields.io/badge/-therightbraindev-A5E5B0?style=flat-square&amp;labelColor=A5E5B0&amp;logo=gatsby&amp;link=https://leannedo.netlify.app/)](https://leannedo.netlify.app/)
+
+<br>
 
 ```typescript
 interface Me {
@@ -39,13 +45,38 @@ export const getToKnowMe = (repertoire: string) => {
   return me[repertoire];
 }
 ```
-<h5 style="color:#a5e5b0">My books feast</h5>
-<li style="list-style-type: none">The Full Stack Developer by Chris Northwood 🥢</li>
-<li style="list-style-type: none">Frontend Architecture for Design Systems by Micah Godbolt 🥢</li>
-<li style="list-style-type: none">Soft skills - The software developer's life manual by John Z. Sonmez 🥢</li>
-<li style="list-style-type: none">Clean Code by Robert C. Martin 🍲</li>
-<li style="list-style-type: none">Programming Typescript by Boris Cherny 🍲</li>
 
+
+<h2 style="display: flex; align-items: center;"> A few more facts <img src="https://media.giphy.com/media/bjE9JbNSckM0w/giphy.gif" width="80" style="margin-left: 30px"></h2> 
+
+### 🍣 I have a thing for salmon 🤤
+
+### 🤟 I love writing!
+
+[comment]: <> (### 📝 My recent blogs)
+
+### 📖 My books feast
+- The Full Stack Developer by Chris Northwood 🥢
+- Frontend Architecture for Design Systems by Micah Godbolt 🥢
+- Soft skills - The software developer's life manual by John Z. Sonmez 🥢
+- Mastering Modular Javascript by Nicolas Bevacqua 🍲
+- Clean Code by Robert C. Martin 🍲
+- Programming Typescript by Boris Cherny 🍲
+
+### 🛠️ My toolbox
+
+<a href="#" alt="javascript"><code><img height="25" src="https://github.com/blackcater/blackcater/raw/master/images/logo-javascript.svg"></code></a>
+<a href="#" alt="typescript"><code><img height="25" src="https://github.com/blackcater/blackcater/raw/master/images/logo-typescript.svg"></code></a>
+<a href="#" alt="nodejs"><code><img height="25" src="https://github.com/blackcater/blackcater/raw/master/images/logo-nodejs.svg"></code></a>
+<a href="#" alt="nodejs"><code><img height="25" src="https://raw.githubusercontent.com/leannedo/leannedo/main/images/react.svg"></code></a>
+<a href="#" alt="nodejs"><code><img height="25" src="https://raw.githubusercontent.com/leannedo/leannedo/main/images/redux.svg"></code></a>
+<a href="#" alt="nodejs"><code><img height="25" src="https://raw.githubusercontent.com/leannedo/leannedo/main/images/graphql.svg"></code></a>
+<a href="#" alt="nodejs"><code><img height="25" src="https://raw.githubusercontent.com/leannedo/leannedo/main/images/webpack.svg"></code></a>
+<a href="#" alt="nodejs"><code><img height="25" src="https://raw.githubusercontent.com/leannedo/leannedo/main/images/gatsbyjs.svg"></code></a>
+<a href="#" alt="nodejs"><code><img height="25" src="https://raw.githubusercontent.com/leannedo/leannedo/main/images/git.svg"></code></a>
+<a href="#" alt="nodejs"><code><img height="25" src="https://raw.githubusercontent.com/leannedo/leannedo/main/images/java.svg"></code></a>
+<a href="#" alt="nodejs"><code><img height="25" src="https://raw.githubusercontent.com/leannedo/leannedo/main/images/mongodb.svg"></code></a>
+<a href="#" alt="nodejs"><code><img height="25" src="https://raw.githubusercontent.com/leannedo/leannedo/main/images/docker.svg"></code></a>
 
 
 
