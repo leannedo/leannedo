@@ -53,7 +53,9 @@ export const getToKnowMe = (repertoire: string) => {
 
 ### 🤟 I love writing!
 
-[comment]: <> (### 📝 My recent blogs)
+### 📝 My recent blogs
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### 📖 My books feast
 - The Full Stack Developer by Chris Northwood 🥢
