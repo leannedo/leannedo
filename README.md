@@ -26,10 +26,10 @@ const me: Me = {
     mobileApp: ['react-native'],
     database: ['mongodb', 'postgresql'],
     devOps: ['docker', 'kubernetes'],
-    testing: ['jest', 'jasmine'],
+    testing: ['jest', 'jasmine', 'react-testing-library'],
     misc: ['git', 'linux', 'heroku', 'netlify' ]
 },
-  applications: ['single-page', 'jam-stack', 'server-side rendering'],
+  applications: ['single-page', 'jam-stack', 'server-side-rendering'],
   outside_work: ['hand-lettering', 'writing-blog', 'cat-slave', 'food-addict'],
 }
 
