@@ -55,6 +55,11 @@ export const getToKnowMe = (repertoire: string) => {
 
 ### 📝 My recent blogs
 <!-- BLOG-POST-LIST:START -->
+- [What is Internet and How It Works](http://www.therightbraindev.com/how-internet-works)
+- [Learning Programming is Never a Straight Road](http://www.therightbraindev.com/no-straight-road-learning-programming)
+- [Git and GitHub 123](http://www.therightbraindev.com/git-and-github)
+- [It is OK to fail test cases](http://www.therightbraindev.com/ok-to-fail)
+- [Code’nLearn 2: Separate UI from logic and the main program](http://www.therightbraindev.com/Java-separation-of-concern)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📖 My books feast
