@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Leanne Do - [The Right Brain Dev](https://www.facebook.com/naophaidicode) 👩‍💻
 
-[![Linkedin: leannedo](https://img.shields.io/badge/-@leanndo-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/leanndo/)](https://www.linkedin.com/in/leanndo/)
+[![Linkedin: leannedo](https://img.shields.io/badge/-@leanndo-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/leanndo/)](https://www.linkedin.com/in/leannedo/)
 [![Facebook: naophaidicode](https://img.shields.io/badge/-@naophaidicode-0077B5?style=social&labelColor=0077B5&logo=facebook&link=https://www.linkedin.com/in/leanndo/)](https://www.facebook.com/naophaidicode)
 [![Website: therightbraindev](https://img.shields.io/badge/-therightbraindev-A5E5B0?style=flat-square&amp;labelColor=A5E5B0&amp;logo=gatsby&amp;link=http://www.therightbraindev.com/)](http://www.therightbraindev.com)
 
