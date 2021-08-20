@@ -72,9 +72,9 @@ export const getToKnowMe = (repertoire: string) => {
 
 ### 🛠️ My toolbox
 
-<a href="#" alt="javascript"><code><img height="25" src="https://github.com/blackcater/blackcater/raw/master/images/logo-javascript.svg"></code></a>
-<a href="#" alt="typescript"><code><img height="25" src="https://github.com/blackcater/blackcater/raw/master/images/logo-typescript.svg"></code></a>
-<a href="#" alt="nodejs"><code><img height="25" src="https://github.com/blackcater/blackcater/raw/master/images/logo-nodejs.svg"></code></a>
+<a href="#" alt="javascript"><code><img height="25" src="https://raw.githubusercontent.com/leannedo/leannedo/main/images/javascript.png"></code></a>
+<a href="#" alt="typescript"><code><img height="25" src="https://raw.githubusercontent.com/leannedo/leannedo/main/images/typescript.png"></code></a>
+<a href="#" alt="nodejs"><code><img height="25" src="https://raw.githubusercontent.com/leannedo/leannedo/main/images/node.png"></code></a>
 <a href="#" alt="nodejs"><code><img height="25" src="https://raw.githubusercontent.com/leannedo/leannedo/main/images/react.svg"></code></a>
 <a href="#" alt="nodejs"><code><img height="25" src="https://raw.githubusercontent.com/leannedo/leannedo/main/images/redux.svg"></code></a>
 <a href="#" alt="nodejs"><code><img height="25" src="https://raw.githubusercontent.com/leannedo/leannedo/main/images/graphql.svg"></code></a>
