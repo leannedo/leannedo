@@ -57,9 +57,9 @@ export const getToKnowMe = (repertoire: string) => {
 <!-- BLOG-POST-LIST:START -->
 - [What is Internet and How It Works](http://www.therightbraindev.com/how-internet-works)
 - [Learning Programming is Never a Straight Road](http://www.therightbraindev.com/no-straight-road-learning-programming)
+- [What is bit and byte?](http://www.therightbraindev.com/bit-byte)
 - [Working with array in Golang](http://www.therightbraindev.com/array-golang)
 - [Git and GitHub 123](http://www.therightbraindev.com/git-and-github)
-- [It is OK to fail test cases](http://www.therightbraindev.com/ok-to-fail)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📖 My books feast
