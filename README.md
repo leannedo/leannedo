@@ -55,11 +55,11 @@ export const getToKnowMe = (repertoire: string) => {
 
 ### 📝 My recent blogs
 <!-- BLOG-POST-LIST:START -->
+- [Be present and own your work](http://www.therightbraindev.com/be-present-own-your-work)
 - [Prep our brain for the coding journey](http://www.therightbraindev.com/prep-brain-for-coding)
 - [What do we need to know about slices in Golang?](http://www.therightbraindev.com/slices-golang)
 - [What is Internet and How It Works](http://www.therightbraindev.com/how-internet-works)
 - [Learning Programming is Never a Straight Road](http://www.therightbraindev.com/no-straight-road-learning-programming)
-- [What is bit and byte?](http://www.therightbraindev.com/bit-byte)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📖 My books feast
