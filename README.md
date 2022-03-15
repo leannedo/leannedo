@@ -17,19 +17,18 @@ interface Repertoire {
 
 const me: Me = {
   language: {
-    computer: ['javascript', 'typescript'],
+    computer: ['javascript', 'typescript', 'java'],
     human: ['vietnamese', 'english', 'german', 'finnish'],
   },
   technologies: {
-    frontEnd: ['react', 'redux', 'gatsby', 'webpack', 'babel', 'css3', 'bootstrap', 'html5'],
-    backEnd: ['nodejs', 'graphql'],
+    frontEnd: ['react', 'redux', 'gatsby', 'webpack', 'css3', 'html5'],
+    backEnd: ['nodejs', 'restapi', 'spring'],
     mobileApp: ['react-native'],
-    database: ['mongodb', 'postgresql'],
+    database: ['postgresql'],
     devOps: ['docker', 'kubernetes'],
-    testing: ['jest', 'jasmine', 'react-testing-library'],
+    testing: ['jest', 'react-testing-library'],
     misc: ['git', 'linux', 'heroku', 'netlify' ]
 },
-  applications: ['single-page', 'jam-stack', 'server-side-rendering'],
   outside_work: ['hand-lettering', 'writing-blog', 'cat-slave', 'food-addict'],
 }
 
