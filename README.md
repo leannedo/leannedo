@@ -17,16 +17,16 @@ interface Repertoire {
 
 const me: Me = {
   language: {
-    computer: ['javascript', 'typescript', 'java'],
+    computer: ['kotlin', 'javascript', 'typescript', 'java'],
     human: ['vietnamese', 'english', 'german', 'finnish'],
   },
   technologies: {
     frontEnd: ['react', 'redux', 'gatsby', 'webpack', 'css3', 'html5'],
-    backEnd: ['nodejs', 'restapi', 'spring'],
+    backEnd: ['kotlin', 'nodejs', 'restapi', 'spring', 'spring boot'],
     mobileApp: ['react-native'],
     database: ['postgresql'],
     devOps: ['docker', 'kubernetes'],
-    testing: ['jest', 'react-testing-library'],
+    testing: ['kotest', 'junit', 'jest', 'react-testing-library'],
     misc: ['git', 'linux', 'heroku', 'netlify' ]
 },
   outside_work: ['hand-lettering', 'writing-blog', 'cat-slave', 'food-addict'],
