@@ -17,17 +17,15 @@ interface Repertoire {
 
 const me: Me = {
   language: {
-    computer: ['kotlin', 'javascript', 'typescript', 'java'],
+    computer: ['kotlin', 'java', 'python', 'javascript/typescript'],
     human: ['vietnamese', 'english', 'german', 'finnish'],
   },
   technologies: {
-    frontEnd: ['react', 'redux', 'gatsby', 'webpack', 'css3', 'html5'],
-    backEnd: ['kotlin', 'nodejs', 'restapi', 'spring', 'spring boot'],
-    mobileApp: ['react-native'],
-    database: ['postgresql'],
-    devOps: ['docker', 'kubernetes'],
-    testing: ['kotest', 'junit', 'jest', 'react-testing-library'],
-    misc: ['git', 'linux', 'heroku', 'netlify' ]
+    frameworkAndLibraries: ['ktor', 'spring boot', 'gradle', 'jackson', 'jOOQ', 'JDBI', 'flyway'],
+    database: ['postgresql', 'mongodb'],
+    devOps: ['aws', 'docker', 'kubernetes'],
+    testing: ['kotest', 'junit', 'jest'],
+    technologies: ['kafka/nakadi', 'grafana', 'datadog', 'scalyr', 'datalake', 'git', 'linux', 'heroku', 'netlify' ]
 },
   outside_work: ['hand-lettering', 'writing-blog', 'cat-slave', 'food-addict'],
 }
@@ -62,28 +60,9 @@ export const getToKnowMe = (repertoire: string) => {
 <!-- BLOG-POST-LIST:END -->
 
 ### 📖 My books feast
-- The Full Stack Developer by Chris Northwood 🥢
-- Frontend Architecture for Design Systems by Micah Godbolt 🥢
-- Soft skills - The software developer's life manual by John Z. Sonmez 🥢
-- Mastering Modular Javascript by Nicolas Bevacqua 🍲
-- Clean Code by Robert C. Martin 🍲
-- Programming Typescript by Boris Cherny 🍲
-
-### 🛠️ My toolbox
-
-<a href="#" alt="javascript"><code><img height="25" src="https://raw.githubusercontent.com/leannedo/leannedo/main/images/javascript.png"></code></a>
-<a href="#" alt="typescript"><code><img height="25" src="https://raw.githubusercontent.com/leannedo/leannedo/main/images/typescript.png"></code></a>
-<a href="#" alt="nodejs"><code><img height="25" src="https://raw.githubusercontent.com/leannedo/leannedo/main/images/node.png"></code></a>
-<a href="#" alt="nodejs"><code><img height="25" src="https://raw.githubusercontent.com/leannedo/leannedo/main/images/react.svg"></code></a>
-<a href="#" alt="nodejs"><code><img height="25" src="https://raw.githubusercontent.com/leannedo/leannedo/main/images/redux.svg"></code></a>
-<a href="#" alt="nodejs"><code><img height="25" src="https://raw.githubusercontent.com/leannedo/leannedo/main/images/graphql.svg"></code></a>
-<a href="#" alt="nodejs"><code><img height="25" src="https://raw.githubusercontent.com/leannedo/leannedo/main/images/webpack.svg"></code></a>
-<a href="#" alt="nodejs"><code><img height="25" src="https://raw.githubusercontent.com/leannedo/leannedo/main/images/gatsbyjs.svg"></code></a>
-<a href="#" alt="nodejs"><code><img height="25" src="https://raw.githubusercontent.com/leannedo/leannedo/main/images/git.svg"></code></a>
-<a href="#" alt="nodejs"><code><img height="25" src="https://raw.githubusercontent.com/leannedo/leannedo/main/images/java.svg"></code></a>
-<a href="#" alt="nodejs"><code><img height="25" src="https://raw.githubusercontent.com/leannedo/leannedo/main/images/mongodb.svg"></code></a>
-<a href="#" alt="nodejs"><code><img height="25" src="https://raw.githubusercontent.com/leannedo/leannedo/main/images/docker.svg"></code></a>
-
+- Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann
+- Grokking Algorithms  - An illustrated guide for programmers and other curious people by Aditya Y. Bhargava
+- Kotlin Coroutines: Deep Dive by  Marcin Moskała
 
 
 
